@@ -1,4 +1,4 @@
-name: Version and Publish NPM
+name: TheWolfOfChainPublish NPM
 
 on:
   push:
