@@ -1,0 +1,1 @@
+Ciao — ho forzato un rerun CI sul branch con un push di test. Per favore verificate i workflow/CI; grazie.
